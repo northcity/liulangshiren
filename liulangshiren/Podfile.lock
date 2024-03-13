@@ -1,0 +1,32 @@
+PODS:
+  - BaiduMobStatCodeless (4.9.5)
+  - BmobSDK (2.3.1)
+  - Masonry (1.1.0)
+  - pop (1.0.12)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - BaiduMobStatCodeless (~> 4.9.5)
+  - BmobSDK (~> 2.3.1)
+  - Masonry (~> 1.1.0)
+  - pop (~> 1.0.12)
+  - SVProgressHUD (~> 2.2.5)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BaiduMobStatCodeless
+    - BmobSDK
+    - Masonry
+    - pop
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  BaiduMobStatCodeless: 8fa2c6bf1cc9f5ec3ec77c69fbf4d5ed195c959a
+  BmobSDK: e0f9e4b451233a80af63a8ae4f2d239474bf567b
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: f3f23362505a1e032ae2b730e65f8826dc4299dd
+
+COCOAPODS: 1.6.0.beta.2
